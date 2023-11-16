@@ -1,0 +1,29 @@
+# Maven specific
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE-specific files (add more for other IDEs if needed)
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# Compiled Java classes
+*.class
+
+# Compiled JavaFX artifacts
+/out/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.jar
+*.war
+*.ear
+*.swp
